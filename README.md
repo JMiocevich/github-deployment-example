@@ -49,4 +49,4 @@ Both options require strong naming conventions to perform analysis across multip
 ## Limitations
 
 * This example does not cover paging of results from the GitHub API
-- Listing deployments shows retried deployments.  But it does not capture start/end times of retries properly - all retries are listed with the same start/end time.
+- Listing deployments shows retried deployments.  But it does not capture start/end times of retries properly - all retries are listed with the same start/end time.aa
